@@ -34,7 +34,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 196,
+    "uniqCompNum": 199,
     "versionPublish": "4.7.10",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -64,7 +64,7 @@
               "background-color": "@bg-value"
             },
             "I": {
-              "color": "#ff3366"
+              "color": "#232323"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#ff3366"
